@@ -4,11 +4,11 @@ A teaching focussed chatbot, made for teaching all sorts of contents about pytho
 SOURCE CURATION
 From all Links i've used to build this notebook, here will be put some of the most important ones:
 
-https://www.youtube.com/watch?v=nLRL_NcnK-4
-https://www.niit.com/india/blog/python-for-data-analytics-a-complete-career-roadmap
-https://www.python.org/doc/
-https://roadmap.sh/sql/vs-python
-https://www.youtube.com/watch?v=mop6g-c5HEY
+- https://www.youtube.com/watch?v=nLRL_NcnK-4
+- https://www.niit.com/india/blog/python-for-data-analytics-a-complete-career-roadmap
+- https://www.python.org/doc/
+- https://roadmap.sh/sql/vs-python
+- https://www.youtube.com/watch?v=mop6g-c5HEY
 
 PROMPT ENGINEERING
 As the main intention for the notebook was for it to be an teacher, all instructions and request were all around this subject and bellow are a few instructions and strategic requests:
